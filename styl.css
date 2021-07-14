@@ -1,0 +1,61 @@
+#banner {
+	color:white;
+	text-align: center;
+	size: 370px;
+}
+
+#mecz_glowny
+{
+	text-align: center;
+}
+
+#mecz {
+	color: white;
+	text-align: center;
+	width: 200px;
+	margin: 10px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: black;
+	border-radius: 10px;
+	float: left;
+	
+}
+
+#mecz:hover
+{
+	border-color: white;
+}
+
+#glowny {
+	background: WhiteSmoke;
+	height: 50px;
+	clear: left;
+}
+
+#lewy {
+	float: left;
+	background: WhiteSmoke;
+	height: 230px;
+	width: 70%;
+}
+
+#prawy {
+	background: WhiteSmoke;
+	width: 30%;
+	height: 230px;
+	text-align: right;
+	float: left;
+}
+
+body {
+	font-family: Tahoma;
+	background: Crimson;
+}
+
+h2 {
+	text-align: Center;
+	letter-spacing: 7px;
+	text-transform: capitalize;
+}
+
